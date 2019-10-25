@@ -5,7 +5,7 @@
   </p>
 </div>
 
-# nyaa-api-v2 get new torrent from nyaa
+# Nyaa-api-v2 get new torrent from nyaa
 
 ### Support npm: https://discord.gg/TfG5hep
 

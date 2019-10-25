@@ -1,0 +1,33 @@
+{
+  "name": "nyaa-api",
+  "version": "1.0.0",
+  "description": "This api for get new torrent from nyaa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onepiecehung/nyaa-api.git"
+  },
+  "keywords": [
+    "nyaa",
+    "nyaa.si",
+    "nyaa-api",
+    "nyaa-new",
+    "nyaa-rss",
+    "torrent",
+    "@ds112",
+    "@onepiecehung"
+  ],
+  "author": "@ds112",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onepiecehung/nyaa-api/issues"
+  },
+  "homepage": "https://github.com/onepiecehung/nyaa-api#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "xml2js": "^0.4.22"
+  }
+}

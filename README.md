@@ -19,7 +19,7 @@ const nyaa_api = require("nyaa-api-v2");
 
 nyaa_api.getNewTorrent().then(res => {
   console.log(res); // array, type json
-  console.log(res[0]); // https://github.com/onepiecehung/nyaa-api/data.json
+  console.log(res[0]); // https://github.com/onepiecehung/nyaa-api/blob/master/data.json
   console.log(res.length); // 75
 });
 ```

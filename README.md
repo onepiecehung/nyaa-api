@@ -1,21 +1,21 @@
 <div align="center">
   <p>
-    <a href="https://nodei.co/npm/nyaa-api/">
-    <img src="https://nodei.co/npm/nyaa-api.png?downloads=true&stars=true" alt="NPM info" /></a>
+    <a href="https://nodei.co/npm/nyaa-api-v2/">
+    <img src="https://nodei.co/npm/nyaa-api-v2.png?downloads=true&stars=true" alt="NPM info" /></a>
   </p>
 </div>
 
-# Nyaa-api get new torrent from nyaa
+# nyaa-api-v2 get new torrent from nyaa
 
 ### Support npm: https://discord.gg/TfG5hep
 
 ```npm
-npm i nyaa-api
-yarn add nyaa-api
+npm i nyaa-api-v2
+yarn add nyaa-api-v2
 ```
 
 ```javascript
-const nyaa_api = require("nyaa-api");
+const nyaa_api = require("nyaa-api-v2");
 
 nyaa_api.getNewTorrent().then(res => {
   console.log(res); // array, type json

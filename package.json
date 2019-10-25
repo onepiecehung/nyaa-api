@@ -1,5 +1,5 @@
 {
-  "name": "nyaa-api",
+  "name": "nyaa-api-v2",
   "version": "1.0.0",
   "description": "This api for get new torrent from nyaa",
   "main": "index.js",
